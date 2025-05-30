@@ -56,7 +56,7 @@ Kami menggunakan **IBM Granite Model** (*granite-3.3-8b-instruct*), model AI yan
 ---
 
 ## 🔗 **Link Terkait**
-- **GitHub Repository:** [Klik di sini untuk akses ke GitHub](link_ke_repository)
+- **GitHub Repository:** [Klik di sini untuk akses ke GitHub](https://github.com/Zaqyemirul/Hacktiv8-capston.git)
 - **Google Colab Notebook:** [Buka di Colab](https://colab.research.google.com/drive/1eQ4Q2ITQWzwZz6gTw-GRwN3Nup8_gQB5?usp=sharing)
 
 ---
