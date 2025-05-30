@@ -1,12 +1,13 @@
-# Hacktiv8-capston
-# 🎯 **Proyek Capstone: Klasifikasi dan Ringkasan Data Menggunakan IBM Granite**
+# Hacktiv8 Capstone: Klasifikasi dan Ringkasan Data Menggunakan IBM Granite
 
 Proyek ini menggabungkan kekuatan **AI** untuk mengubah data mentah menjadi wawasan yang dapat diterapkan. Menggunakan **IBM Granite Model**, kami mengklasifikasikan ulasan pelanggan dan merangkum rapat untuk memberikan informasi yang jelas, terstruktur, dan siap untuk pengambilan keputusan yang lebih cepat dan lebih baik.
 
 ---
 
 ## 🌟 **Deskripsi Proyek**
+
 Sebagai bagian dari proyek capstone, kami telah mengembangkan model yang secara otomatis:
+
 1. **Klasifikasi Ulasan Pelanggan:** Mengidentifikasi sentimen pelanggan (positif, negatif, atau campuran) dan mengelompokkan fokus area seperti baterai, layar, dan performa produk.
 2. **Ringkasan Rapat:** Menghasilkan ringkasan rapat yang panjang menjadi poin-poin penting yang jelas dan bisa diterapkan.
 
@@ -15,7 +16,8 @@ Tujuan dari proyek ini adalah untuk menunjukkan bagaimana **AI** bisa meningkatk
 ---
 
 ## 📥 **Dataset Mentah**
-Link ke dataset yang digunakan untuk proyek ini:  
+
+Link ke dataset yang digunakan untuk proyek ini:
 [**Download Dataset**](https://www.kaggle.com/code/karnikakapoor/spam-or-ham-sms-classifier/input)
 
 ---
@@ -30,19 +32,23 @@ Link ke dataset yang digunakan untuk proyek ini:
 ---
 
 ## 🧠 **Insight & Temuan**
+
 Dari hasil analisis, berikut adalah temuan utama:
-- **Klasifikasi Ulasan Pelanggan:** Model berhasil memberikan wawasan yang lebih mendalam tentang kekuatan dan kelemahan produk berdasarkan ulasan pelanggan.
-- **Ringkasan Rapat:** Ringkasan yang dihasilkan memudahkan pemangku kepentingan untuk memperoleh informasi penting tanpa harus membaca transkrip panjang.
+
+* **Klasifikasi Ulasan Pelanggan:** Model berhasil memberikan wawasan yang lebih mendalam tentang kekuatan dan kelemahan produk berdasarkan ulasan pelanggan.
+* **Ringkasan Rapat:** Ringkasan yang dihasilkan memudahkan pemangku kepentingan untuk memperoleh informasi penting tanpa harus membaca transkrip panjang.
 
 ---
 
 ## 📈 **Kesimpulan & Rekomendasi**
-- **Kesimpulan:** **AI** memudahkan pengklasifikasian data dan merangkum informasi penting, menghemat waktu, dan mengurangi kesalahan manusia dalam analisis.
-- **Rekomendasi:** Penggunaan model ini di berbagai departemen dapat membantu mempercepat pengambilan keputusan yang lebih terinformasi dan meningkatkan produktivitas tim.
+
+* **Kesimpulan:** **AI** memudahkan pengklasifikasian data dan merangkum informasi penting, menghemat waktu, dan mengurangi kesalahan manusia dalam analisis.
+* **Rekomendasi:** Penggunaan model ini di berbagai departemen dapat membantu mempercepat pengambilan keputusan yang lebih terinformasi dan meningkatkan produktivitas tim.
 
 ---
 
 ## 🛠️ **Dukungan AI yang Digunakan**
+
 Kami menggunakan **IBM Granite Model** (*granite-3.3-8b-instruct*), model AI yang dioptimalkan untuk tugas **klasifikasi teks** dan **ringkasan** yang efektif. **Granite** membantu kita dalam menilai sentimen dan memahami konteks dari data teks yang tidak terstruktur.
 
 ---
@@ -56,8 +62,11 @@ Kami menggunakan **IBM Granite Model** (*granite-3.3-8b-instruct*), model AI yan
 ---
 
 ## 🔗 **Link Terkait**
-- **GitHub Repository:** [Klik di sini untuk akses ke GitHub](https://github.com/Zaqyemirul/Hacktiv8-capston.git)
-- **Google Colab Notebook:** [Buka di Colab](https://colab.research.google.com/drive/1eQ4Q2ITQWzwZz6gTw-GRwN3Nup8_gQB5?usp=sharing)
+
+* **GitHub Repository:** [Klik di sini untuk akses ke GitHub](https://github.com/Zaqyemirul/Hacktiv8-capston.git)
+* **Google Colab Notebook:** [Buka di Colab](https://colab.research.google.com/drive/1eQ4Q2ITQWzwZz6gTw-GRwN3Nup8_gQB5?usp=sharing)
+* **PowerPoint Presentation:** [**Download PPT**](https://gamma.app/docs/Proyek-Capstone-Klasifikasi-dan-Ringkasan-Data-Menggunakan-IBM-Gr-2d6qqqgaz5xxr4q)
+  📊 **Link PPT: Proyek Capstone - Klasifikasi dan Ringkasan Data Menggunakan IBM Granite**
 
 ---
 
